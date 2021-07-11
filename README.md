@@ -2,7 +2,7 @@
 ## English
 ### introduction
 ---
-`main.py` is a script, which can train model.
+`train.py` is a script, which can train model.
 `predict.py` is a script, which can predict your Y haplogroup.
 `database.csv` is a csv file where you can add Y STR data.
 `predict_y_haplogroup` is a folder, which contains models and the model prediction reports.
@@ -30,7 +30,7 @@ ATTENTION: Make sure the code follows the style of the original code and that yo
 ## 中文
 ### 介绍
 ---
-`main.py`是一个脚本，它可以训练模型。
+`train.py`是一个脚本，它可以训练模型。
 `predict.py`是一个脚本，它可以预测你的Y单倍群。
 `database.csv`是一个csv文件，您可以在其中添加Y STR数据。
 `predict_y_haplogroup`是一个文件夹，其中包含模型和模型预测报告。
